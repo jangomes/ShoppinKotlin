@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppinKotlin</string>
+
+
+    <string name="activity_post_loading">Loading…</string>
+
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879841347856",
+    "project_id": "shoppinkotlin",
+    "storage_bucket": "shoppinkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879841347856:android:860dda5c0cd80a92563d95",
+        "android_client_info": {
+          "package_name": "com.janaina.shoppinkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879841347856-rga70qst075qh9c4nmvkj02dlg4kdojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1KSf-PIn4s5EzS65sP0O8s8z9hpcAs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879841347856-rga70qst075qh9c4nmvkj02dlg4kdojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

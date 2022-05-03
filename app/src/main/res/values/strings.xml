@@ -3,8 +3,12 @@
 
 
     <string name="activity_post_loading">Loading…</string>
+    <string name="product_details">Product Details:</string>
 
 
+    <string name="string1">Men</string>
+    <string name="string2">Woman</string>
+    <string name="string3">babe</string>
 
 
 </resources>

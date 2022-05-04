@@ -9,6 +9,8 @@
     <string name="string1">Men</string>
     <string name="string2">Woman</string>
     <string name="string3">babe</string>
+    <string name="loading">Loading...</string>
+    <string name="main_activity_open_new_page_button">Open</string>
 
 
 </resources>

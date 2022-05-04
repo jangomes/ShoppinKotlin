@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.janaina.shoppinkotlin">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -12,6 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppinKotlin">
+        <activity
+            android:name=".SelectCategoryActivity"
+            android:exported="false" />
         <activity
             android:name=".sign.SignInActivity"
             android:exported="true">
@@ -23,12 +26,11 @@
         </activity>
         <activity
             android:name=".sign.SignUpActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"/>
+
     </application>
 
 </manifest>

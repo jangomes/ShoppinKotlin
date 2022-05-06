@@ -3,14 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/drawable/background.xml" value="0.1735" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/drawable/mainbackground.xml" value="0.1735" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_fourth.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_posts.xml" value="0.25" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_product.xml" value="0.25" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_secondary.xml" value="0.25" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_select_category.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/activity_third.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/recycler_template.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/template_category.xml" value="0.264" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/template_product.xml" value="0.25" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/template_product_view.xml" value="0.25" />
+        <entry key="..\:/Users/jan_n/AndroidStudioProjects/21944_janaina_APP_CA4/app/src/main/res/layout/template_selected_category.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/ShoppinKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/ShoppinKotlin/app/src/main/res/layout/activity_cart.xml" value="0.22146739130434784" />
         <entry key="..\:/Users/jan_n/AndroidStudioProjects/ShoppinKotlin/app/src/main/res/layout/activity_category.xml" value="0.22146739130434784" />

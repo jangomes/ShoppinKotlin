@@ -8,6 +8,7 @@ import android.os.Looper
 import android.util.Log
 import android.view.View
 import android.widget.Button
+import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -33,10 +34,33 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val button2 = findViewById<Button>(R.id.button2)
-        button2.setOnClickListener {
-            val intent = Intent (this, ThirdActivity ::class.java)
+        val bctButton = findViewById<ImageView>(R.id.cart_button)
+        bctButton.setOnClickListener {
+            val intent = Intent (this, SeventhActivity ::class.java)
             startActivity(intent)
+        }
+
+        val infoButton = findViewById<ImageView>(R.id.button_Info)
+        infoButton.setOnClickListener {
+            val intent = Intent (this, SixthActivity ::class.java)
+            startActivity(intent)
+        }
+
+        val userButton = findViewById<ImageView>(R.id.button_User)
+        userButton.setOnClickListener {
+            val intent = Intent (this, FifthActivity ::class.java)
+            startActivity(intent)
+        }
+
+
+        val closeButton = findViewById<ImageView>(R.id.closeButton)
+        closeButton.setOnClickListener {
+
+            val intent = Intent(Intent.ACTION_MAIN)
+            intent.addCategory(Intent.CATEGORY_HOME)
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            startActivity(intent)
+
         }
     }
 }

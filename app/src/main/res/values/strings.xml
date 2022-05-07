@@ -6,11 +6,24 @@
     <string name="product_details">Product Details:</string>
 
 
-    <string name="string1">Men</string>
-    <string name="string2">Woman</string>
-    <string name="string3">babe</string>
     <string name="loading">Loading...</string>
     <string name="main_activity_open_new_page_button">Open</string>
+
+
+    <string name="text_descAbout">Mission: Our company delivery the latest fashion styles trends for men and women. We also offer the latest electronic products. Our mission is to  help customers to find the best of technology and cloths that match with their tasty. </string>
+    <string name="address">Address :</string>
+    <string name="phone">Phone :</string>
+    <string name="email">Email :</string>
+    <string name="name">Name</string>
+    <string name="items">Items </string>
+    <string name="shipping">Shipping</string>
+    <string name="import_charges">Import charges</string>
+    <string name="card_total">Card total</string>
+    <string name="_150_00">€150.00</string>
+    <string name="user_details">User Details</string>
+    <string name="user_gmail_com">user@gmail.com</string>
+    <string name="phone2">353 083 397 4549</string>
+    <string name="address2">65 Evergreen Street, Miami</string>
 
 
 </resources>

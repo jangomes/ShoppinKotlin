@@ -92,3 +92,23 @@ Developing this application, I followed what was presented in class
 
 
 References:
+
+Report:
+
+Developing this application, I basically followed what was presented in class, most of the code was directly created based on the explanations provided by the teacher. During the creation process I had some difficulties and could not finish the project. I couldn't get the cart to work and so I couldn't show the orders. The first part of the project was carried out following the orientation of the video on youtube to perform the login and signin, the second part of the categories, products was carried out following the guidelines in class. The information for the second part is received from fakestoreapi.com. The first part of the project can be found at https://github.com/jangomes/21944_janaina_APP_CA4 I did something wrong which led me to have two repositories for the same project but the final project is located at https://github.com/ jangomes/ShoppinKotlin. In conclusion, I can say that I learned a lot, but I still have a lot to learn because I can't meet all the requirements.
+
+References:
+
+App close button: Amaro, G., 2013. Como criar botão para sair / fechar aplicação (Android). [online] Spigando e Aprendendo. Available at: https://spigandoeaprendendo.wordpress.com/2013/06/28/como-criar-botao-para-sair-fechar-aplicacao-android/ [Accessed 3 March 2022].
+
+information about fakestoreapi: Keikavousi M, unknown. Fake store rest API for your e-commerce or shopping website prototype. Available at:
+https://fakestoreapi.com/
+
+Login and LogOut:tutorialsEU, by Denis,2020. Android Google Firebase Firestore 7 Hours Course - Build a Shop App using Kotlin. Available at:
+https://www.youtube.com/watch?v=hoK9OOP1KZw
+
+Lifecycle: Code Palace, 2020. The Lifecycle Component Tutorial in Android Studio (Kotlin). [image] Available at: https://www.youtube.com/watch?v=INauhIIoQ_s [Accessed 3 March 2022].
+
+Creating a radius corner: Smartherd, 2020. Shape your Image with Circle, Rounded Square, Cuts at corner. Shapeable ImageView in Android Studio. [image] Available at: https://www.youtube.com/watch?v=jihLJ0oVmGo [Accessed 2 March 2022].
+
+Photos used from: Unsplash, 2022. Photos Unsplash. [image] Available at: https://unsplash.com/ [Accessed 3 March 2022].
